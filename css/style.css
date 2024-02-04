@@ -15873,6 +15873,7 @@ img {
     #logo .inner {
         vertical-align: middle;
         height: auto;
+        width: 100px;
     }
 
     #domain-check .text,
